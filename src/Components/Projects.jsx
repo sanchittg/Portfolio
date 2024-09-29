@@ -1,4 +1,5 @@
 import React from 'react'
+
 import bewakoof from "../../public/Bewakoof.png"
 import calculator from "../../public/calculator2.jpg"
 import tictactoe from "../../public/tictactoe.jpg"
@@ -55,11 +56,11 @@ const Projects = () => {
         {
             id: 6,
             image: bewakoof,
-            title: "Bewakoof Clone",
+            title: "Bewakoof Website Clone",
             description: "Clone of Bewakoof.com, built as a learning project to improve my skills. Inspired by the original, but entirely coded by me.",
-            techonolgy: "HTML , CSS , Bootstrap",
-            watch: "#",
-            sourceCode: "#"
+            techonolgy: "HTML , CSS , Bootstrap ,JavaScript",
+            watch: "https://grand-bubblegum-491523.netlify.app/",
+            sourceCode: "https://github.com/sanchittg/Bewakoof_Website_Clone"
         },
     ]
     return (
