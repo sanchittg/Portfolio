@@ -3,7 +3,7 @@ import { FaLinkedin } from "react-icons/fa";
 import { FaGithub } from "react-icons/fa";
 import Resume from "../../public/SanchitThapliyal_Resume.pdf"
 import { MdOutlineFileDownload } from "react-icons/md";
-import { ReactTyped, Typed } from "react-typed";
+import { ReactTyped, } from "react-typed";
 import profile from "../../public/profile.png"
 
 const Home = () => {
