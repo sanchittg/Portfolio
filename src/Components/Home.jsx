@@ -43,10 +43,10 @@ const Home = () => {
                                     </a>
                                 </ul>
                             </div>
-                            <div className='space-y-2 bg-black text-white flex items-center  rounded hover:bg-red-700'>
+                            {/* <div className='space-y-2 bg-black text-white flex items-center  rounded hover:bg-red-700'>
                                 <a href={Resume} download className=" px-4 py-2  " >Resume </a>
                                 <span className='px-1 pb-1'><MdOutlineFileDownload className=' text-3xl' /></span>
-                            </div>
+                            </div> */}
                         </div>
 
                     </div>

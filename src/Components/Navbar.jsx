@@ -66,12 +66,6 @@ const Navbar = () => {
                             })
 
                         }
-                        <li>
-                            <a href={Resume} // Update with the actual path to your CV 
-                                download
-                                className="inline-block px-4 py-2 bg-blue-500 text-white rounded hover:bg-blue-600"
-                            > Download CV </a>
-                        </li>
 
                     </ul>
 
