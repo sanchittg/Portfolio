@@ -28,15 +28,6 @@ const Projects = () => {
         },
         {
             id: 3,
-            image: tictactoe,
-            title: "Tic Tac Toe Game",
-            description: "Developed a Tic Tac Toe game using JavaScript to enhance my skills in game logic and DOM manipulation. It features a simple interface with two-player functionality.",
-            techonolgy: "HTML ,CSS, JavaScript",
-            watch: "https://snazzy-cajeta-c0b935.netlify.app/",
-            sourceCode: "https://github.com/sanchittg/TicTacToe"
-        },
-        {
-            id: 4,
             image: remake,
             title: "Personalized Website Design",
             description: "Created a responsive website as a practice project . Focused on layout design, styling, and enhancing user experience.",
@@ -45,16 +36,7 @@ const Projects = () => {
             sourceCode: "https://github.com/sanchittg/Remake"
         },
         {
-            id: 5,
-            image: gif,
-            title: "GIF Generator",
-            description: "Built a GIF generator using an API to fetch random and custom GIFs. Developed with React.js to practice API integration and dynamic content rendering.",
-            techonolgy: "React.js, CSS",
-            watch: "#",
-            sourceCode: "https://github.com/sanchittg/GifGenerator"
-        },
-        {
-            id: 6,
+            id: 4,
             image: tour,
             title: "Hidden Horizons",
             description: " Developed a travel website showcasing hidden destinations in India to promote tourism. Built with React.js, CSS focusing on user experience and informative content.",
@@ -62,9 +44,6 @@ const Projects = () => {
             watch: "#",
             sourceCode: "https://github.com/sanchittg/Hidden_Gems_Tourism_Platform"
         },
-
-
-
     ]
     return (
         <>
